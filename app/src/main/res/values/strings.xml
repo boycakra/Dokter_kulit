@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">chatApp35</string>
+    <string name="kayit">Kayıt</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="artikel_teks1">Pigmented lesions of the skin are commonly called freckles. They include solar lentigo, congenital nevi, mucosal nevi, and special nevi of the palms and soles. This activity will help to differentiate the various pedal nevi from acral lentiginous melanoma clinically. Plantar melanomas are characteristically late to be diagnosed, have a poorer response to treatment, and have a significantly higher mortality rate when compared to more proximal melanomas.
+    A severe childhood burn is strongly associated with an increased risk of melanoma, while more incremental occupational exposure does not confer an increased risk. These findings support the hypothesis that melanoma risk is affected primarily by intermittent intense sun exposure that paralyzes normal immune surveillance and destroys abnormal melanocytes. Sunburn in adolescence damages lifelong immune surveillance and disturbs normal apoptosis of neoplastic cells. Genetic susceptibility also may help account for melanoma in shaded areas. As many as 1 in 10 cases of melanoma may be linked to inherited faulty genes.
+    The actual increase in melanoma incidence is most likely due to an overall increase in the ultraviolet (UV) light exposure. Although melanoma, in general, is thought to be rare, the incidence of melanoma worldwide is rising dramatically, and despite increased efforts at screening, mortality rates have not appreciably improved. In the United States, melanoma is the fifth leading cancer in men and the seventh in women, and its incidence has doubled in the last ten years. In a study of data (1992 to 2004), researchers found that the actual incidence of melanoma (all thicknesses and among all socioeconomic levels) is increasing the case burden. The increase is from 4.7 to 7.7 cases per 100,000 older men and from 5.5 to 13.9 cases per 100,000 females. Although 5% of all melanomas are located on foot, pedal melanoma is relatively rare in whites. Among East Asians and darkly pigmented people, acral lentiginous melanoma is the most common subtype.
+    In addition to evaluating the A through E characteristics of a pigmented lesion, there are specific dermoscopic patterns to guide examination. There are three benign patterns and one malignant dermoscopic pattern to consider. The parallel furrow pattern of linear pigmentation is benign over 93.2% of the time. The fibrillar pattern with pigmented furrows and fine angulated crossing filamentous, as well as the lattice-like pigment, are benign patterns. Most importantly, the parallel ridge pattern with wide diffuse pigmentation of the ridges predicts melanoma 93.7% of the time. Violation of the normal parallel furrow pattern indicates biopsy.
+    </string>
+
+    <string name="artikel_teks2">Benjolan keratosis seboroik tumbuh dengan lambat dan tidak menular. Kondisi ini umumnya tidak menimbulkan nyeri dan tidak memerlukan pengobatan khusus. Namun, penanganan oleh dokter bisa dilakukan jika kondisi ini dirasa mengganggu.
+    Keratosis seboroik terjadi ketika sel-sel di kulit tumbuh secara tidak normal. Belum diketahui secara pasti penyebab keratosis seboroik. Namun, kondisi tersebut diduga berkaitan dengan beberapa faktor berikut:
+
+- Berusia di atas 40 tahun
+- Sering terpapar sinar matahari
+- Memiliki keluarga yang pernah menderita keratosis seboroik
+- Sering mengalami gesekan pada kulit, seperti pada lipatan kulit bagian dalam
+
+    Gejala utama keratosis seboroik adalah benjolan seperti kutil di kulit. Benjolan tersebut memiliki ciri-ciri sebagai berikut:
+
+- Berwarna lebih gelap dari warna kulit sekitarnya, misalnya kecokelatan atau kehitaman
+- Berbentuk bulat atau lonjong
+- Bertekstur kasar seperti kutil
+- Sering muncul lebih dari satu di satu area (berkelompok)
+- Tidak menimbulkan sakit atau nyeri, tetapi dapat terasa gatal dan mengganggu
+- Penderita dianjurkan untuk tidak menggaruk atau mengusap bagian tubuh yang mengalami keratosis seboroik karena dapat menyebabkan infeksi, perdarahan, atau pembengkakan.
+
+    Kapan harus ke dokter
+Periksakan diri ke dokter jika timbul benjolan berwarna gelap di kulit yang dirasa mengganggu penampilan atau dapat bergesekan dengan kulit.
+
+Bentuk keratosis seboroik bisa mirip dengan kanker kulit. Oleh karena itu, lakukan pemeriksaan ke dokter jika timbul benjolan atau tahi lalat yang disertai tanda-tanda berikut:
+
+- Berwarna tidak normal, seperti kebiruan, ungu, atau merah kehitaman
+- Terasa sakit
+- Mengeluarkan darah
+- Tidak rata di bagian tepinya</string>
+    <string name="artikel_teks3">Melanoma adalah salah satu jenis kanker kulit yang terjadi akibat pertumbuhan sel melanosit secara tidak normal. Penyakit ini termasuk jenis kanker kulit ganas yang dapat menyebar dengan cepat ke organ tubuh lain, seperti mata, hidung, tenggorokan, otak, dan paru-paru.
+
+Kanker kulit melanoma umumnya ditandai dengan munculnya tahi lalat baru di kulit atau perubahan bentuk, ukuran, dan warna pada tahi lalat. Hanya 1:100 kasus kanker kulit yang merupakan melanoma. Meski begitu, penyakit langka ini tetap perlu diwaspadai.
+
+        Jenis-Jenis Melanoma
+
+Berdasarkan lokasi pertumbuhan sel kanker, melanoma terbagi menjadi beberapa jenis, yaitu;
+
+Superficial spreading melanoma, yaitu melanoma yang paling umum terjadi dan biasanya muncul di batang tubuh atau anggota tubuh, misalnya punggung atas dan kaki. Pada jenis ini, sel kanker cenderung tumbuh di sepanjang permukaan atas kulit lalu meluas di area permukaan, terkadang  ke lapisan kulit yang lebih dalam.
+Nodular melanoma, yaitu jenis kanker kulit yang muncul di batang tubuh, seperti kepala atau leher. Tumor ganas yang muncul pada jenis ini berbentuk benjolan berwarna hitam atau kemerahan. Pertumbuhan tipe kanker ini cenderung lebih cepat dari lainnya.
+Lentigo maligna melanoma, yaitu jenis kanker kulit yang sering menyerang orang lanjut usia, terutama di bagian tubuh yang sering terpapar sinar matahari.
+Acral lentiginous melanoma, yaitu tipe melanoma yang paling langka, biasanya muncul di telapak kaki dan tangan atau di bawah kuku. Melanoma jenis ini lebih sering terjadi pada orang berkulit gelap.
+
+Penyebab Melanoma
+
+Meski penyebabnya belum diketahui secara pasti, faktor paling umum yang dicurigai menyebabkan melanoma adalah paparan sinar UV secara langsung. Melanoma terjadi ketika adanya kerusakan DNA yang menyebabkan sel-sel kulit tumbuh tak terkendali, sehingga membentuk massa yang bersifat kanker.
+
+Selain paparan sinar UV, beberapa faktor yang dapat meningkatkan risiko seseorang terkena kanker kulit melanoma adalah:
+
+Kulit putih, ini karena kulit putih tidak memiliki melanin yang cukup untuk melindungi kulit dari paparan radiasi UV.
+Memiliki jumlah tahi lalat yang banyak atau lebih dari 50 tahi lalat di tubuhnya.
+Sering terpapar matahari dan ultraviolet secara langsung.
+Tinggal di daerah garis khatulistiwa bumi.
+Memiliki keluarga dengan riwayat melanoma (faktor genetik).
+Memiliki sistem imun yang lemah.
+Pernah memiliki luka bakar akibat terpapar matahari.
+Freckles atau bintik-bintik coklat pada kulit.
+
+Gejala Melanoma
+
+Gejala utama melanoma adalah kemunculan tahi lalat di area tubuh yang sering terpapar sinar matahari, seperti punggung, wajah, lengan, dan kaki. Namun, bisa juga muncul di bagian tertutup seperti telapak tangan atau kaki dan kuku.
+
+Selain itu, beberapa gejala umum dari kanker kulit melanoma adalah:
+
+Perubahan bentuk, warna, dan ukuran tahi lalat.
+Tahi lalat yang rapuh dan mudah berdarah.
+Perih pada tahi lalat yang tak kunjung hilang.
+Kemerahan atau pembengkakan di area sekeliling tahi lalat.
+Muncul noda atau pigmen yang tidak biasa pada kulit.
+Tahi lalat terasa nyeri dan gatal saat ditekan.
+Nyeri tulang, apabila melanoma menyebar ke tulang.
+Sesak napas dan pembengkakan kelenjar getah bening.
+
+Lantas, bagaimana cara membedakan tahi lalat biasa dan gejala melanoma? Kedua hal tersebut dapat dibedakan dengan metode ABCDE, yaitu:
+
+Asimetris: Bentuk tahi lalat yang tidak beraturan.
+Border (pinggiran): Pinggiran melanoma tidak rata, kasar, dan tidak terlihat seperti tahi lalat pada umumnya.
+Colour (warna): Melanoma biasanya berwarna tidak merata, terlihat seperti campuran dua atau tiga warna.
+Diameter: Melanoma biasanya memiliki diameter lebih dari 6 mm.
+Enlargement dan Evolution: Pembesaran atau perubahan pada bentuk dan warna tahi lalat.
+
+Diagnosis Melanoma
+
+Sebelum menegakkan diagnosis, dokter akan melakukan anamnesis terkait gejala dan riwayat kesehatan pasien. Kemudian dilanjutkan dengan pemeriksaan kulit yang mengalami gangguan. Apabila terdapat dugaan melanoma, maka dokter akan meminta pasien menjalani beberapa pemeriksaan penunjang, seperti:
+
+Biopsi, yaitu pengambilan sampel jaringan kulit untuk memastikan adanya melanoma.
+Biopsi kelenjar getah bening, untuk melihat apakah kanker telah menyebar ke kelenjar getah bening.
+Tes pencitraan dengan sinar X, CT Scan, MRI atau PET Scan untuk memeriksa penyebaran sel kanker.
+
+Cara Mengobati Kanker Kulit Melanoma
+
+Pada tahap awal, pengobatan melanoma bisa dilakukan melalui tindakan operasi dengan mengangkat area kanker. Setelah itu, pasien akan menjalani radioterapi menggunakan sinar radiasi tinggi untuk membunuh sel kanker. Radioterapi memiliki beberapa kemungkinan efek samping, seperti rambut rontok (pada area terapi), mual, kelelahan, sensasi terbakar pada kulit, hingga perubahan warna kulit.
+
+Apabila kanker sudah menyebar ke beberapa organ lain, maka dokter akan melakukan terapi sistematik, seperti:
+
+Kemoterapi: Pemberian obat-obatan antikanker untuk menghancurkan sel kanker.
+Imunoterapi: Terapi menggunakan zat buatan yang mirip dengan zat antikanker alami untuk meningkatkan imun tubuh dan melawan sel kanker.
+Terapi target: Pemberian obat-obatan yang menargetkan sel kanker untuk membantu memperlambat pertumbuhannya.
+
+
+Melanoma adalah kondisi yang membutuhkan penanganan dengan segera karena termasuk penyakit serius. Apabila Anda merasakan gejala-gejala yang menyerupai melanoma, segera kunjungi MRCCC Siloam Hospitals Semanggi agar mendapatkan penanganan yang tepat. MRCCC Siloam Hospital Semanggi merupakan rumah sakit swasta pertama di Indonesia yang khusus menangani pengobatan kanker.
+    </string>
+    <string name="judulartikel1">Melanocytic Nevi</string>
+    <string name="judulartikel2">Benign Keratosis-Like Lesions</string>
+    <string name="judulartikel3">Melanoma</string>
+    <string-array name="professions">
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+</resources>

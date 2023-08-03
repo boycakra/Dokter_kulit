@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    android:orientation="vertical">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:visibility="gone" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="20dp"
+        >
+        <TextView
+            android:text="Hospital \nRecommendation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:fontFamily="@font/poppins_light"
+            android:textSize="20dp"
+            android:paddingLeft="40dp"
+            android:paddingTop="40dp"
+            ></TextView>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/logo"
+            android:paddingLeft="40dp"
+            android:paddingTop="40dp"
+            >
+        </ImageView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingHorizontal="15dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:cardCornerRadius="12dp"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_marginHorizontal="40dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            app:srcCompat="@drawable/rs1"/>
+
+                        <TextView
+                            android:text="Rumah Sakit Pusat Pertamina"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_bold"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            android:paddingVertical="3dp"
+                            />
+                        <TextView
+                            android:text="Jl. Kyai Maja No.43, RT.4/RW.8, Gunung, Kec. Kby. Baru"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_light"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            />
+                        <TextView
+                            android:text="(021) 7219000"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_light"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            />
+
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:cardCornerRadius="12dp"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_marginHorizontal="40dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            app:srcCompat="@drawable/rs2"/>
+
+                        <TextView
+                            android:text="Rumah Sakit Siloam Kebon Jeruk"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_bold"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            android:paddingVertical="3dp"
+                            />
+                        <TextView
+                            android:text="Jl. Perjuangan No.8, RW.10, Kb. Jeruk, Kec. Kb. Jeruk"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_light"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            />
+                        <TextView
+                            android:text="(021) 25677888"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_light"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            />
+
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    app:cardCornerRadius="12dp"
+                    app:cardBackgroundColor="@color/white"
+                    android:layout_marginHorizontal="40dp"
+                    android:layout_marginVertical="10dp"
+                    >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+                        <ImageView
+                            android:layout_width="match_parent"
+                            android:layout_height="200dp"
+                            app:srcCompat="@drawable/rs3"/>
+
+                        <TextView
+                            android:text="Rumah Sakit Medika Permata Hijau"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_bold"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            android:paddingVertical="3dp"
+                            />
+                        <TextView
+                            android:text="Jl. Raya Kby. Lama No.64, RW.8, Sukabumi Sel."
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_light"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            />
+                        <TextView
+                            android:text="081905506159"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/poppins_light"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="15sp"
+                            />
+
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </LinearLayout>
+
+
+        </ScrollView>
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <ImageView
+                android:id="@+id/home"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginVertical="5dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                app:srcCompat="@drawable/home" />
+
+            <ImageView
+                android:id="@+id/telp"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginVertical="5dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                app:srcCompat="@drawable/telp" />
+
+            <ImageView
+                android:id="@+id/map"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginVertical="5dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                app:srcCompat="@drawable/map" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
+
