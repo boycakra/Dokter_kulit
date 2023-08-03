@@ -51,23 +51,10 @@
             android:id="@+id/deskrip_konten"
             android:textColor="@color/white">
         </TextView>
-        <TextView
-            android:gravity="bottom"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:visibility="invisible"
-            android:text="longtitude"
-            android:id="@+id/longdivesite"
-            android:textColor="@color/white">
-        </TextView>
 
 
 
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_below="@id/mainpic"
-            android:id="@+id/pin">
-        </ImageView>
+
+
     </RelativeLayout>
 </androidx.cardview.widget.CardView>

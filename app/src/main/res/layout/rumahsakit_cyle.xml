@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginVertical="5dp"
+    android:layout_marginHorizontal="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    app:cardCornerRadius="10dp"
+    android:elevation="90dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/rs1"
+            android:id="@+id/pic_rs"/>
+
+        <TextView
+            android:text="Rumah Sakit Pusat Pertamina"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_bold"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            android:paddingVertical="3dp"
+            android:id="@+id/tempatsite"
+            />
+        <TextView
+            android:text="Jl. Kyai Maja No.43, RT.4/RW.8, Gunung, Kec. Kby. Baru"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/alamat"
+            android:textSize="15sp"
+            />
+        <TextView
+            android:text="(021) 7219000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            android:id="@+id/nomer_rs"
+            />
+        <TextView
+            android:text="Tempat"
+            android:id="@+id/tempatlbl"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginLeft="10dp"
+            android:textSize="15sp"
+            />
+
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

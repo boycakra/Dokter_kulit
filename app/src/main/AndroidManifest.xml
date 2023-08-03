@@ -35,12 +35,16 @@
             android:name="com.example.kankerkulit.menu"
             android:exported="false">
         </activity>
+        <activity android:name="com.example.kankerkulit.Konten_Artikel"
+            android:exported="true">
+        </activity>
         <activity
             android:name="com.example.kankerkulit.Artikel"
             android:exported="false">
         </activity>
         <activity android:name="com.example.kankerkulit.Splash_Screen"
             android:exported="true">
+
 
 
             <intent-filter>

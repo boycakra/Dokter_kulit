@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/red"
+    tools:context=".">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_weight="14"
+            android:id="@+id/kotak1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/logo" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_weight="1.2"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_weight="3.5"
+                    android:id="@+id/textlayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:id="@+id/Judulkontenisi"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="Judul"
+                        android:textColor="@color/white"
+                        android:textSize="30sp"
+                        android:justificationMode="inter_word">
+                    </TextView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_marginHorizontal="20dp"
+                    android:layout_weight="0.8"
+                    android:id="@+id/kotak2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/gambarkonten"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="fitXY"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_marginTop="10dp"
+                android:orientation="vertical"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+\
+
+                <LinearLayout
+                    android:layout_weight="0.6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <LinearLayout
+                        android:layout_marginHorizontal="20dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="1"
+                        android:id="@+id/layour"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#701F28">
+
+
+                        <ScrollView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:lineSpacingExtra="4dp"
+                                android:textSize="16dp"
+                                android:id="@+id/Kontenisi"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:text="Deskripsi"
+                                android:textColor="@color/white"
+                                android:justificationMode="inter_word">
+                            </TextView>
+                        </ScrollView>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
